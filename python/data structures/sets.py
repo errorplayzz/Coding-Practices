@@ -8,7 +8,7 @@ ss = {1, 2, 2, 4, 5, 3, 2, 2, 2, 4, 6, 7, 10} #set does not allow duplicate valu
 
 print(ss)
 
-methods of set
+# methods of set
 
 sets = {1, 3, 5, 3, 45, 32, 87, "Error"}
 
